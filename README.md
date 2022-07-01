@@ -8,7 +8,7 @@
 <br />
 
 
-<img align="right" src="https://avatars.githubusercontent.com/u/62537243?v=4" width=300 />
+<img align="right" src="https://blogfiles.pstatic.net/MjAyMjA3MDFfMTc5/MDAxNjU2NjU4MjY3NzYz.Igvodo9scE3z2Jx7FAJ39pEdZlx4qb4NbVHxAJnPGpIg.3UZQFcmk327WJmj0KRxU_q2JEfo_8WurC3iR-CVJ__og.JPEG.gkstls2006/%EC%88%98%EB%8B%AC.jpeg?type=w2" width=300 />
 
 <h3> ⛏️ My Skills </h3>
 

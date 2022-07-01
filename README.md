@@ -10,6 +10,7 @@
 <br/>
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![SPING_BOOT](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-43853d?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![MaraiDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 <br/>

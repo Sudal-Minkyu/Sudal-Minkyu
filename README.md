@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 <br/>
 ![JAVA](https://img.shields.io/badge/-JAVA-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SPING BOOT](https://img.shields.io/badge/-SPING BOOT-222222?style=for-the-badge&logo=react)
+![SPING_BOOT](https://img.shields.io/badge/-SPING_BOOT-222222?style=for-the-badge&logo=react)
 ![AWS_EC2](https://img.shields.io/badge/-AWS_EC2-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 <br/>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)

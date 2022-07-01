@@ -8,7 +8,7 @@
 <br />
 
 
-<img align="right" src="https://avatars.githubusercontent.com/u/62537243?v=4" width=200 />
+<img align="right" src="https://avatars.githubusercontent.com/u/62537243?v=4" width=400 />
 
 <h3> ⛏️ My Skills </h3>
 

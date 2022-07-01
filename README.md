@@ -1,7 +1,7 @@
-### 💁🏻 Hello World! I'm MinkyuKim 👋
+### 💁🏻 Hello World! 👋
 
-<p>Welcome to my page! 
-</br> I'm MinKuyKim, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330591.png" width="13"/> 
+<h3>Welcome to my page</h3>! 
+</br>I'm MinKuyKim, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330591.png" width="13"/> 
 <b>Incheon, South Korea</b>
 
 <br />
@@ -9,7 +9,7 @@
 <h3> ⛏️ My Skills </h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 <br/>
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)

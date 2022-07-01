@@ -1,4 +1,4 @@
-### 💁🏻 Hello World! 👋
+### Hello World! 👋
 
 <h3>Welcome to my page !</h3>
 </br>

@@ -2,13 +2,13 @@
 
 <h3>Welcome to my page !</h3>
 </br>
-<p>I'm MinKuyKim, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330591.png" width="13"/> 
+<p>I'm MinKuyKim, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330591.png" width="16"/> 
 <b>Incheon, South Korea</b></p>
 
 <br />
 
 
-<img align="right" src="https://avatars.githubusercontent.com/u/62537243?v=4" width=400 />
+<img align="right" src="https://avatars.githubusercontent.com/u/62537243?v=4" width=350 />
 
 <h3> ⛏️ My Skills </h3>
 

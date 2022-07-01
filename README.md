@@ -2,7 +2,7 @@
 
 <h3>Welcome to my page !</h3>
 </br>
-<p>I'm MinKuyKim, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330591.png" width="1"/> 
+<p>I'm MinKuyKim, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330591.png" width="15"/> 
 <b>Incheon, South Korea</b></p>
 
 <br />

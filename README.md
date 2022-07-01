@@ -23,7 +23,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
 <br/>
 ![Redmine](https://img.shields.io/badge/-Redmine-B32024?style=for-the-badge&logo=Redmine&logoColor=ffffff)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff)
+![Slack](https://img.shields.io/badge/-Slack-A901DB?style=for-the-badge&logo=Slack&logoColor=ffffff)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=ffffff)
 <br/>
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=ffffff)

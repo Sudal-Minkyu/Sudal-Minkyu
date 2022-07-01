@@ -7,6 +7,9 @@
 
 <br />
 
+
+<img align="right" src="https://avatars.githubusercontent.com/u/62537243?v=4" width=200 />
+
 <h3> ⛏️ My Skills </h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)

@@ -1,4 +1,4 @@
-<h2 style="font-weight:bold;"> 💁🏻 Hello World! I'm MinkyuKim 👋 </h2>
+### 💁🏻 Hello World! I'm MinkyuKim 👋
 
 <br />
 

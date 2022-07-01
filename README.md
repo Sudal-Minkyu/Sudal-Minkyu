@@ -1,5 +1,9 @@
 ### 💁🏻 Hello World! I'm MinkyuKim 👋
 
+<p>Welcome to my page! 
+</br> I'm MinKuyKim, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330591.png" width="13"/> 
+<b>Incheon, South Korea</b>
+
 <br />
 
 <h3> ⛏️ My Skills </h3>

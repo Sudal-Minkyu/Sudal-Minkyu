@@ -10,6 +10,11 @@
 
 <img align="right" src="https://blogfiles.pstatic.net/MjAyMjA3MDFfMTc5/MDAxNjU2NjU4MjY3NzYz.Igvodo9scE3z2Jx7FAJ39pEdZlx4qb4NbVHxAJnPGpIg.3UZQFcmk327WJmj0KRxU_q2JEfo_8WurC3iR-CVJ__og.JPEG.gkstls2006/%EC%88%98%EB%8B%AC.jpeg?type=w2" width=300 />
 
+[![Sudal-Minkyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudal-Minkyu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jSudal-Minkyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3> ⛏️ My Skills </h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)

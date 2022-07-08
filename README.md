@@ -23,14 +23,14 @@
   <img alt="React" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <br/>
+</p>
+
+<h3> 💻 DevOps </h3>
+<p>
   <img alt="React" src="https://img.shields.io/badge/-AWS-43853d?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/MariaDB-DBA901?style=for-the-badge&logo=MariaDB&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-</p>
-
-<h3> 💻 Favorit DevOps </h3>
-<p>
+   <br/>
   <img alt="React" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
   <img alt="React" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff" />
   <img alt="React" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />

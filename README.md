@@ -26,7 +26,7 @@
   <img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-3776AB?style=for-the-badge&logo=Svelte&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
 </p>
 
 <h3> 💻 DevOps </h3>
